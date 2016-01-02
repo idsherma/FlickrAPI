@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+	color: blue;
+	font-family: 'Oswald', sans-serif;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+}
+
+label {
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+}
+
+form {
+    text-align: center;
+}
+
+#photos {
+    text-align: center;
+    list-style: none;
+    padding: 0;
+    border: 0;
+}
